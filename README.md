@@ -1,141 +1,71 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Zecro Network</title>
+🚀 ZECRO NETWORK
 
-<style>
+Zecro Network is an educational and digital learning platform designed to provide study resources, upskilling guides, and social media management knowledge.
 
-body{
-  font-family: Arial, sans-serif;
-  background:#f5f5f5;
-  margin:0;
-  padding:0;
-  text-align:center;
-}
+---
 
-/* HEADER */
+📚 Sections of the Website
 
-header{
-  background:#111;
-  color:white;
-  padding:20px;
-  font-size:28px;
-  font-weight:bold;
-}
+🎓 ZECRO EDUCATION
 
-/* BOX CONTAINER */
+Provides study material and resources for students.
 
-.container{
-  padding:30px;
-}
+Example resources:
 
-/* RECTANGLE BOXES */
+- IT 402 Notes
+- Most Repeated MCQs
+- Shortcut Keys and Basics
 
-.box{
-  background:white;
-  border-radius:15px;
-  padding:20px;
-  margin:20px auto;
-  width:80%;
-  max-width:500px;
-  box-shadow:0 4px 10px rgba(0,0,0,0.1);
-  font-size:20px;
-  font-weight:bold;
-}
+🚀 ZECRO UPSKILLING
 
-/* LINK STYLE */
+Guides and learning resources to develop useful skills for students and beginners.
 
-.box a{
-  text-decoration:none;
-  color:black;
-  display:block;
-}
+📱 ZECRO SMM
 
-/* FOOTER */
+Social Media Management guides created by Zecro Network to help users understand digital platforms and strategies.
 
-footer{
-  background:#222;
-  color:white;
-  padding:30px;
-  margin-top:40px;
-  font-size:14px;
-  text-align:left;
-}
+---
 
-.footer-section{
-  max-width:800px;
-  margin:auto;
-}
+🛠 Project Structure
 
-.indian{
-  text-align:center;
-  margin-top:20px;
-  font-weight:bold;
-}
+source-zecronetwork
+ ├ index.html
+ ├ README.md
+ ├ education.html
+ ├ upskilling.html
+ └ smm.html
 
-</style>
-</head>
+---
 
-<body>
+🌐 Deployment
 
-<header>
-ZECRO NETWORK
-</header>
+This website is deployed using Vercel and the source code is hosted on GitHub.
 
-<div class="container">
+---
 
-<div class="box">
-<a href="PASTE-LINK-FOR-EDUCATION-PAGE">
-ZECRO EDUCATION
-</a>
-</div>
+📩 Contact
 
-<div class="box">
-<a href="PASTE-LINK-FOR-UPSKILLING-PAGE">
-ZECRO UPSKILLING
-</a>
-</div>
+Email: zecro.home@gmail.com
 
-<div class="box">
-<a href="PASTE-LINK-FOR-SMM-PAGE">
-ZECRO SMM  
-<br>
-(Social Media Management Guide by ZECRO)
-</a>
-</div>
+---
 
-</div>
+⚖ Terms of Use
 
-<footer>
+- The content provided on this website must not be republished or redistributed.
+- If you want to share the content, please use backlinks instead of copying.
+- Do not enter sensitive information such as credit card details on this website.
+- For any purchases, enter payment details only on the official Razorpay dashboard.
 
-<div class="footer-section">
+---
 
-<b>Contact Us</b><br>
-zecro.home@gmail.com
+🔒 Privacy Policy
 
-<br><br>
+We respect user privacy.
+We do not sell, share, or distribute personal information to third parties.
+Basic analytics data may be used to improve website performance and user experience.
 
-<b>Terms of Use</b><br>
-Any content provided here must not be republished or shared with others.  
-If you want to redirect someone, please use backlinks instead of copying content.  
-Do not enter sensitive information such as credit card details on this website.  
-For any purchases, enter payment details only in the Razorpay dashboard.  
-We are not responsible for misuse of information entered outside official payment pages.
+---
 
-<br><br>
+🇮🇳 Proudly Indian
 
-<b>Privacy Policy</b><br>
-We respect your privacy. Any information you provide on this website is kept private and is not sold or shared with third parties.  
-We may collect basic analytics data to improve our services and user experience.
-
-</div>
-
-<div class="indian">
-PROUDLY INDIAN 🇮🇳
-</div>
-
-</footer>
-
-</body>
-</html>
+Zecro Network is proudly built and maintained in India 🇮🇳.
